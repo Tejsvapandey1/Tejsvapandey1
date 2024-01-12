@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tejsvapandey1
-- 👀 I’m interested in ... Python,open Sourcing,frontend development
+- 👀 I’m interested in ... Python,open Sourcing,frontend development,back-end Development
 - 🌱 I’m currently learning ...Full stack,Java,Python(algorithms)
 - 💞️ I’m looking to collaborate on ...GSOC ,Google STEP and MIP
 - 📫 How to reach me ...tejsva.pandey2023@vitstudent.ac.in
