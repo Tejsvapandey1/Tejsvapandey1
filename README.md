@@ -1,5 +1,4 @@
----
-javascript
+```
 const Tejsva = {
     pronouns: "He" | "Him",
     code: ["Golang", "Typescript", "Verilog", "Java", "Javascript", "Python"],
@@ -24,11 +23,7 @@ const Tejsva = {
     otherTech: ["Redux", "Redux Toolkit"],
     interests: "I like to Play Guitar and I'm Proficient at Beat Boxing Too",
 };
-
-export default Aditya;
-
-
-
+```
 
 ## 📈 GitHub Stats:
 
