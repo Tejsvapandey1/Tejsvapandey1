@@ -34,7 +34,7 @@ const Tejsva = {
 ---
 
 ## 💼 Experience:
-- *Web Developer Junior Core* at [CODECHEF-VIT](https://codechefvit.com)
+- *Web Developer Senior Core* at [CODECHEF-VIT](https://codechefvit.com)
 - *Open-Source Contributer* at [Hacktober Fest'23](https://hacktoberfest.com)
 
 ---
